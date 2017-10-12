@@ -1,0 +1,4 @@
+<script>
+	window.open("http://jackbox.tv","","width="+ ((window.screen.availWidth) / 4)+",height=" + (window.innerHeight - 3) + ",left="+ (window.screen.availWidth - ((window.screen.availWidth) / 4) - 15)+",menubar=0,channelmode=1,true");
+	setInterval(window.close,5000);
+</script>
